@@ -1,6 +1,6 @@
 //////PLIK PIOSENKA
 
-commit cf36005e3d8bc965b7ff876454526eed309ed56d (HEAD -> master)
+commit cf36005e3d8bc965b7ff876454526eed309ed56d
 Author: alopacin <adlopacinski@gmail.com>
 Date:   Sun May 7 19:25:22 2023 +0200
 
@@ -44,6 +44,104 @@ index 7fc039b..df17a90 100644
 @@ -1,39 +1,15 @@
 -Pan kiedyś stanął nad brzegiem,
 -Szukał ludzi gotowych pójść za Nim;
+-By łowić serca
+-Słów Bożych prawdą.
++zwrotka_1
+ 
+-Ref.: O Panie, to Ty na mnie spojrzałeś,
+-Twoje usta dziś wyrzekły me imię.
+-Swoją barkę pozostawiam na brzegu,
+-Razem z Tobą nowy zacznę dziś łów.
++refren_1
+ 
+-2. Jestem ubogim człowiekiem,
+-Moim skarbem są ręce gotowe
+-Do pracy z Tobą
+-I czyste serce.
++zwrotka_2
+ 
+-Ref.: O Panie, to Ty na mnie spojrzałeś,
+-Twoje usta dziś wyrzekły me imię.
+-Swoją barkę pozostawiam na brzegu,
+-Razem z Tobą nowy zacznę dziś łów.
++refren_2
+ 
+-3. Ty, potrzebujesz mych dłoni,
+-Mego serca młodego zapałem
+-Mych kropli potu
+-I samotności.
++zwrotka_3
+ 
+-Ref.: O Panie, to Ty na mnie spojrzałeś,
+-Twoje usta dziś wyrzekły me imię.
+-Swoją barkę pozostawiam na brzegu,
+-Razem z Tobą nowy zacznę dziś łów.
++refren_3
+ 
+-4. Dziś wypłyniemy już razem
+-Łowić serca na morzach dusz ludzkich
+-Twej prawdy siecią
+-I słowem życia.
++zwrotka_4
+ 
+-Ref.: O Panie, to Ty na mnie spojrzałeś,
+-Twoje usta dziś wyrzekły me imię.
+-Swoją barkę pozostawiam na brzegu,
+-Razem z Tobą nowy zacznę dziś łów
++refren_4
+
+commit 9be132dea46881eaf910dec63a3070408bcf60cf
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 18:43:02 2023 +0200
+
+    pierwszy plik
+
+diff --git a/piosenka b/piosenka
+new file mode 100644
+index 0000000..7fc039b
+--- /dev/null
++++ b/piosenka
+@@ -0,0 +1,39 @@
++Pan kiedyś stanął nad brzegiem,
++Szukał ludzi gotowych pójść za Nim;
++By łowić serca
++Słów Bożych prawdą.
++
++Ref.: O Panie, to Ty na mnie spojrzałeś,
++Twoje usta dziś wyrzekły me imię.
++Swoją barkę pozostawiam na brzegu,
++Razem z Tobą nowy zacznę dziś łów.
++
++2. Jestem ubogim człowiekiem,
++Moim skarbem są ręce gotowe
++Do pracy z Tobą
++I czyste serce.
++
++Ref.: O Panie, to Ty na mnie spojrzałeś,
++Twoje usta dziś wyrzekły me imię.
++Swoją barkę pozostawiam na brzegu,
++Razem z Tobą nowy zacznę dziś łów.
++
++3. Ty, potrzebujesz mych dłoni,
++Mego serca młodego zapałem
++Mych kropli potu
++I samotności.
++
++Ref.: O Panie, to Ty na mnie spojrzałeś,
++Twoje usta dziś wyrzekły me imię.
++Swoją barkę pozostawiam na brzegu,
++Razem z Tobą nowy zacznę dziś łów.
++
++4. Dziś wypłyniemy już razem
++Łowić serca na morzach dusz ludzkich
++Twej prawdy siecią
++I słowem życia.
++
++Ref.: O Panie, to Ty na mnie spojrzałeś,
++Twoje usta dziś wyrzekły me imię.
++Swoją barkę pozostawiam na brzegu,
++Razem z Tobą nowy zacznę dziś łów
+
 
 
 
