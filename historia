@@ -153,7 +153,19 @@ index 0000000..f5ce6cd
 
 /////GIT LOG:
 
-commit cf36005e3d8bc965b7ff876454526eed309ed56d (HEAD -> master)
+commit 6f25f6027f1ecf0d5442cdd7124aaaf9ab49e982 (HEAD -> master, origin/master)
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 20:38:25 2023 +0200
+
+    usunięcie czterech niepotrzebnych plików
+
+commit dcf9c8520431fdb727f8e83c51cc4f595b919b90
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 19:55:22 2023 +0200
+
+    zapisanie historii zmian
+
+commit cf36005e3d8bc965b7ff876454526eed309ed56d
 Author: alopacin <adlopacinski@gmail.com>
 Date:   Sun May 7 19:25:22 2023 +0200
 
@@ -208,6 +220,5 @@ Author: alopacin <adlopacinski@gmail.com>
 Date:   Sun May 7 18:43:02 2023 +0200
 
     pierwszy plik
-
 
 
