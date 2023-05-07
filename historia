@@ -1,0 +1,213 @@
+//////PLIK PIOSENKA
+
+commit cf36005e3d8bc965b7ff876454526eed309ed56d (HEAD -> master)
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 19:25:22 2023 +0200
+
+    usunięcie powtarzającyh się refrenów i zmiana nazw refrenów w pliku piosenka
+
+diff --git a/piosenka b/piosenka
+index df17a90..c8fbb60 100644
+--- a/piosenka
++++ b/piosenka
+@@ -1,15 +1,15 @@
+ zwrotka_1
+ 
+-refren_1
++refren
+ 
+ zwrotka_2
+ 
+-refren_2
++refren
+ 
+ zwrotka_3
+ 
+-refren_3
++refren
+ 
+ zwrotka_4
+ 
+-refren_4
++refren
+
+commit 02f5edad7cda3bafaa1e7ccbefaccdaa568926db
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 18:55:34 2023 +0200
+
+     rozdzielenie piosenki na refreny
+
+diff --git a/piosenka b/piosenka
+index 7fc039b..df17a90 100644
+--- a/piosenka
++++ b/piosenka
+@@ -1,39 +1,15 @@
+-Pan kiedyś stanął nad brzegiem,
+-Szukał ludzi gotowych pójść za Nim;
+
+
+
+/////PLIK REFREN
+
+commit cf36005e3d8bc965b7ff876454526eed309ed56d (HEAD -> master)
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 19:25:22 2023 +0200
+
+    usunięcie powtarzającyh się refrenów i zmiana nazw refrenów w pliku piosenka
+
+diff --git a/refren b/refren
+new file mode 100644
+index 0000000..4b4abbf
+--- /dev/null
++++ b/refren
+@@ -0,0 +1,5 @@
++Ref.: O Panie, to Ty na mnie spojrzałeś,
++Twoje usta dziś wyrzekły me imię.
++Swoją barkę pozostawiam na brzegu,
++Razem z Tobą nowy zacznę dziś łów.
++
+
+
+///////PLIK ZWROTKA_1
+
+commit 8ed1e835d6e067e6b21a144ae95b17013bb37431
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 18:45:55 2023 +0200
+
+    utworzenie pliku zwrotka_1
+
+diff --git a/zwrotka_1 b/zwrotka_1
+new file mode 100644
+index 0000000..800de44
+--- /dev/null
++++ b/zwrotka_1
+@@ -0,0 +1,4 @@
++Pan kiedyś stanął nad brzegiem,
++Szukał ludzi gotowych pójść za Nim;
++By łowić serca
++Słów Bożych prawdą.
+
+
+///////PLIK ZWROTKA_2
+
+
+commit 20f7ca8f8a3d9b47a1312a6a5820dea89145063f
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 18:47:06 2023 +0200
+
+    utworzenie pliku zwrotka_2
+
+diff --git a/zwrotka_2 b/zwrotka_2
+new file mode 100644
+index 0000000..6f21e0a
+--- /dev/null
++++ b/zwrotka_2
+@@ -0,0 +1,5 @@
++2. Jestem ubogim człowiekiem,
++Moim skarbem są ręce gotowe
++Do pracy z Tobą
++I czyste serce.
++
+
+
+//////PLIK ZWROTKA_3
+
+commit bfd351fce43a624cbaea71094b6630ad26a65cd6
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 18:49:03 2023 +0200
+
+    utworzenie pliku zwrotka_3
+
+diff --git a/zwrotka_3 b/zwrotka_3
+new file mode 100644
+index 0000000..63d7e70
+--- /dev/null
++++ b/zwrotka_3
+@@ -0,0 +1,5 @@
++3. Ty, potrzebujesz mych dłoni,
++Mego serca młodego zapałem
++Mych kropli potu
++I samotności.
++
+
+/////PLIK ZWROTKA_4
+
+commit 6729ccec92925aa566c1522c2a46852709043ed6
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 18:49:59 2023 +0200
+
+    utworzenie pliku zwrotka_4
+
+diff --git a/zwrotka_4 b/zwrotka_4
+new file mode 100644
+index 0000000..f5ce6cd
+--- /dev/null
++++ b/zwrotka_4
+@@ -0,0 +1,5 @@
++4. Dziś wypłyniemy już razem
++Łowić serca na morzach dusz ludzkich
++Twej prawdy siecią
++I słowem życia.
++
+
+
+/////GIT LOG:
+
+commit cf36005e3d8bc965b7ff876454526eed309ed56d (HEAD -> master)
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 19:25:22 2023 +0200
+
+    usunięcie powtarzającyh się refrenów i zmiana nazw refrenów w pliku piosenka
+
+commit 0556177c2faeada283b1f71e0b014ed89ca9d1ad
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 19:15:32 2023 +0200
+
+    Revert "usunięcie jednej linii z refrenu"
+    
+    This reverts commit a994db50e502fb6c01268f8d6635b533ab2b0081.
+
+commit a994db50e502fb6c01268f8d6635b533ab2b0081
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 18:59:35 2023 +0200
+
+    usunięcie jednej linii z refrenu
+
+commit 02f5edad7cda3bafaa1e7ccbefaccdaa568926db
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 18:55:34 2023 +0200
+
+     rozdzielenie piosenki na refreny
+
+commit 6729ccec92925aa566c1522c2a46852709043ed6
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 18:49:59 2023 +0200
+
+    utworzenie pliku zwrotka_4
+
+commit bfd351fce43a624cbaea71094b6630ad26a65cd6
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 18:49:03 2023 +0200
+
+    utworzenie pliku zwrotka_3
+
+commit 20f7ca8f8a3d9b47a1312a6a5820dea89145063f
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 18:47:06 2023 +0200
+
+    utworzenie pliku zwrotka_2
+
+commit 8ed1e835d6e067e6b21a144ae95b17013bb37431
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 18:45:55 2023 +0200
+
+    utworzenie pliku zwrotka_1
+
+commit 9be132dea46881eaf910dec63a3070408bcf60cf
+Author: alopacin <adlopacinski@gmail.com>
+Date:   Sun May 7 18:43:02 2023 +0200
+
+    pierwszy plik
+
+
+
